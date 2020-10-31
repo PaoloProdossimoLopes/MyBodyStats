@@ -84,6 +84,7 @@ header img{
 
 .result-container {
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .result-content {
@@ -119,12 +120,15 @@ footer{
   cursor: pointer;
   text-decoration: none;
 }
+
 footer a{
   text-decoration: none;
 }
+
 footer span{
   color: white;
 }
+
 body footer span.color, span.colorText{
   color: blueviolet;
 }
