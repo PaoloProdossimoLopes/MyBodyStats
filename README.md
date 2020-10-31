@@ -1,5 +1,4 @@
 
 <p align="center">
-  <img align="center" width="80%" src="https://github.com/PaoloProdossimoLopes/MyBodyStats/blob/main/images/AllLogoMyBodyStatsBanner.png"/>
-  <img align="center" src="https://github.com/PaoloProdossimoLopes/MyBodyStats/blob/main/images/PROLS.png"/>
+  <img width="50%" src="https://github.com/PaoloProdossimoLopes/MyBodyStats/blob/main/images/HeaderMyMetabolismIcon.png"/><br/>
 </p>
