@@ -1,2 +1,2 @@
-# MyBodyStats
-This is my project that you can find your body stats.
+<img align="center" src="https://github.com/PaoloProdossimoLopes/MyBodyStats/blob/main/images/AllLogoMyBodyStatsBanner.png"/><br/>
+<img align="center" src="https://github.com/PaoloProdossimoLopes/MyBodyStats/blob/main/images/PROLS.png"/>
